@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dotglass_red">#D71921</color>
+    <color name="dotglass_red_dark">#A5121A</color>
+    <color name="dotglass_glass_light">#66FFFFFF</color>
+    <color name="dotglass_glass_dark">#66000000</color>
+    <color name="dotglass_glass_tile_bg">#4DFFFFFF</color>
+    <color name="dotglass_glass_tile_active">#33D71921</color>
+</resources>
