@@ -1,0 +1,22 @@
+From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
+From: DotGlass <dotglass@ojoruwa>
+Date: Sun, 15 Nov 2026 00:00:00 +0100
+Subject: [PATCH] DotGlass: Glass QS v1 - B4 Red Pop
+
+---
+ frameworks/base/packages/SystemUI/res/values/dotglass_colors.xml | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
+diff --git a/frameworks/base/packages/SystemUI/res/values/dotglass_colors.xml b/frameworks/base/packages/SystemUI/res/values/dotglass_colors.xml
+new file mode 100644
+--- /dev/null
++++ b/frameworks/base/packages/SystemUI/res/values/dotglass_colors.xml
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="utf-8"?>
++<resources>
++    <color name="dotglass_qs_tile_bg">#4DFFFFFF</color>
++    <color name="dotglass_qs_tile_active">#33D71921</color>
++    <color name="dotglass_qs_tile_inactive">#33000000</color>
++    <color name="dotglass_red">#D71921</color>
++    <color name="dotglass_glass_blur">#66000000</color>
++</resources>
